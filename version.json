@@ -1,9 +1,9 @@
 {
-  "versionCode": 3,
-  "version": "0.3.0",
+  "versionCode": 4,
+  "version": "0.3.1",
   "url": "https://github.com/keyneralexis/holavioleta/releases/latest/download/Violeta.apk",
   "notes": {
-    "es": "¡Ahora puedes enviar videos de hasta 30 segundos en el chat! 🎬",
-    "en": "You can now send videos up to 30 seconds long in chat! 🎬"
+    "es": "Ahora solo verás personas reales, y en el registro eliges tu foto desde la galería. 💜",
+    "en": "You now only see real people, and you pick your photo from your gallery when signing up. 💜"
   }
 }
