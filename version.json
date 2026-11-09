@@ -1,9 +1,9 @@
 {
-  "versionCode": 2,
-  "version": "0.2.0",
+  "versionCode": 3,
+  "version": "0.3.0",
   "url": "https://github.com/keyneralexis/holavioleta/releases/latest/download/Violeta.apk",
   "notes": {
-    "es": "Solicitudes de conexión, fotos y notas de voz en el chat, y notificaciones de mensajes nuevos.",
-    "en": "Connection requests, photos and voice notes in chat, and new message notifications."
+    "es": "¡Ahora puedes enviar videos de hasta 30 segundos en el chat! 🎬",
+    "en": "You can now send videos up to 30 seconds long in chat! 🎬"
   }
 }
