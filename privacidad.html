@@ -25,7 +25,7 @@
 <main>
 <div class="card">
 <h1>Política de privacidad de Violeta</h1>
-<p class="muted">Última actualización: 7 de noviembre de 2026</p>
+<p class="muted">Última actualización: 8 de noviembre de 2026</p>
 
 <p>Violeta ("la app") es una red social para conocer gente nueva y chatear. Esta política explica qué datos recogemos, para qué los usamos y qué derechos tienes. Si tienes cualquier duda, escríbenos a <a href="mailto:mariaeugeniacifuentes818@gmail.com">mariaeugeniacifuentes818@gmail.com</a>.</p>
 
@@ -33,12 +33,21 @@
 <ul>
   <li><strong>Cuenta:</strong> tu correo electrónico y una contraseña (la contraseña la gestiona Firebase Authentication de forma cifrada; nosotros nunca la vemos).</li>
   <li><strong>Perfil:</strong> nombre, edad, país, biografía, intereses y foto de perfil (si decides subir una).</li>
-  <li><strong>Actividad en la app:</strong> mensajes de chat, "me gusta", Super Likes, publicaciones en el Muro, temas y colores que eliges, y tu saldo de Créditos.</li>
+  <li><strong>Actividad en la app:</strong> mensajes de chat, solicitudes de conexión (enviadas, aceptadas o rechazadas), "me gusta", Super Likes, publicaciones en el Muro, temas y colores que eliges, y tu saldo de Créditos.</li>
+  <li><strong>Fotos, notas de voz y videos del chat:</strong> los que tú decides enviar a una conexión. Se comprimen en tu teléfono y se guardan en Cloud Firestore junto a la conversación.</li>
+  <li><strong>Notificaciones:</strong> un identificador de notificaciones de tu teléfono (token de Expo / Firebase Cloud Messaging) para avisarte de mensajes nuevos. Si apagas las notificaciones en tu perfil, lo borramos.</li>
   <li><strong>Denuncias:</strong> si reportas a alguien, guardamos la denuncia para revisarla.</li>
   <li><strong>Compras:</strong> si compras Créditos, guardamos el paquete, el importe, el método de pago elegido y la referencia de la transacción que nos indicas. <strong>No</strong> guardamos números de tarjeta ni datos bancarios.</li>
   <li><strong>Invitaciones:</strong> tu código de invitación y quién te invitó, para dar las recompensas.</li>
 </ul>
 <p>No recogemos tu ubicación GPS, tus contactos ni otros datos del teléfono. El país puede sugerirse a partir de la zona horaria del teléfono, pero eres tú quien lo elige.</p>
+
+<p><strong>Permisos que pide la app</strong> (puedes negarlos; solo dejarías de usar esa función):</p>
+<ul>
+  <li><strong>Fotos y videos:</strong> solo para elegir tu foto de perfil o lo que quieras enviar en el chat. La app solo accede a lo que tú eliges.</li>
+  <li><strong>Micrófono:</strong> solo mientras mantienes presionado el botón para grabar una nota de voz.</li>
+  <li><strong>Notificaciones:</strong> para avisarte cuando alguien te escribe.</li>
+</ul>
 
 <h2>2. Para qué usamos tus datos</h2>
 <ul>
@@ -52,8 +61,8 @@
 <h2>3. Quién puede ver tu información</h2>
 <ul>
   <li><strong>Otras personas usuarias</strong> ven tu perfil (nombre, edad si la muestras, país, biografía, intereses y foto). Solo lo ven personas de tu mismo grupo de edad: los menores de 18 años y los adultos están separados.</li>
-  <li><strong>Tus mensajes</strong> solo los ven las personas que participan en esa conversación.</li>
-  <li><strong>Proveedores:</strong> guardamos los datos en Google Firebase (Authentication y Cloud Firestore), que actúa como proveedor técnico.</li>
+  <li><strong>Tus mensajes</strong> (texto, fotos, notas de voz y videos) solo los ven las dos personas de esa conversación. Solo puedes chatear con alguien después de que acepte tu solicitud de conexión (o tú la suya).</li>
+  <li><strong>Proveedores:</strong> guardamos los datos en Google Firebase (Authentication y Cloud Firestore). Las notificaciones se envían a través de Expo y Firebase Cloud Messaging, que solo reciben el aviso (nombre de quien escribe y una vista previa del mensaje).</li>
   <li><strong>Autoridades:</strong> solo si la ley nos obliga, o para proteger a un menor o a cualquier persona en peligro.</li>
 </ul>
 
@@ -75,7 +84,7 @@
 <hr>
 
 <h1>Privacy Policy (English summary)</h1>
-<p>Violeta collects your email and password (handled by Firebase Authentication), your profile (name, age, country, bio, interests, optional photo), your in-app activity (chats, likes, Super Likes, wall posts, themes, Credits), reports you file, and purchase references (no card or bank details). We do not collect GPS location or contacts. Data is stored in Google Firebase, is never sold and is not used for targeted ads. Profiles are only visible to people in the same age group (13–17 or 18+); Violeta is not allowed under 13. You can request access, correction or full deletion of your account and data at <a href="mailto:mariaeugeniacifuentes818@gmail.com">mariaeugeniacifuentes818@gmail.com</a> (subject: "Delete my account"); deletion is completed within 30 days.</p>
+<p>Violeta collects your email and password (handled by Firebase Authentication), your profile (name, age, country, bio, interests, optional photo), your in-app activity (chats, connection requests, likes, Super Likes, wall posts, themes, Credits), the photos, voice notes and videos you choose to send in chat, a push notification token (Expo / Firebase Cloud Messaging), reports you file, and purchase references (no card or bank details). Permissions: photos/videos (only what you pick), microphone (only while you hold the record button) and notifications. We do not collect GPS location or contacts. Data is stored in Google Firebase, is never sold and is not used for targeted ads. Profiles are only visible to people in the same age group (13–17 or 18+); Violeta is not allowed under 13. You can request access, correction or full deletion of your account and data at <a href="mailto:mariaeugeniacifuentes818@gmail.com">mariaeugeniacifuentes818@gmail.com</a> (subject: "Delete my account"); deletion is completed within 30 days.</p>
 </div>
 </main>
 </body>
