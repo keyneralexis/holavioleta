@@ -1,9 +1,9 @@
 {
-  "versionCode": 7,
-  "version": "0.4.2",
+  "versionCode": 8,
+  "version": "0.4.3",
   "url": "https://github.com/keyneralexis/holavioleta/releases/latest/download/Violeta.apk",
   "notes": {
-    "es": "¡Nuevo! Cada regalo tiene su propia animación, y en Descubrir ahora ves a todas las personas. 🎁✨",
-    "en": "New! Every gift has its own animation, and Discover now shows everyone. 🎁✨"
+    "es": "¡Nuevo! Los regalos ahora tienen ilustraciones propias de Violeta y animaciones más bonitas. 💜",
+    "en": "New! Gifts now have Violeta's own illustrations and prettier animations. 💜"
   }
 }
