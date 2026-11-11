@@ -1,9 +1,9 @@
 {
-  "versionCode": 4,
-  "version": "0.3.1",
+  "versionCode": 5,
+  "version": "0.4.0",
   "url": "https://github.com/keyneralexis/holavioleta/releases/latest/download/Violeta.apk",
   "notes": {
-    "es": "Ahora solo verás personas reales, y en el registro eliges tu foto desde la galería. 💜",
-    "en": "You now only see real people, and you pick your photo from your gallery when signing up. 💜"
+    "es": "¡Nuevo! Envía regalos en el chat: más de 100, de básicos a legendarios. Y la app ahora pesa la mitad. 🎁💜",
+    "en": "New! Send gifts in chat: over 100, from basic to legendary. And the app is now half the size. 🎁💜"
   }
 }
