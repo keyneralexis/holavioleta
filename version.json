@@ -1,9 +1,9 @@
 {
-  "versionCode": 6,
-  "version": "0.4.1",
+  "versionCode": 7,
+  "version": "0.4.2",
   "url": "https://github.com/keyneralexis/holavioleta/releases/latest/download/Violeta.apk",
   "notes": {
-    "es": "¡Nuevo! Los regalos ahora llegan con animaciones: de un rebote suave a fuegos artificiales en los legendarios. 🎆💜",
-    "en": "New! Gifts now arrive with animations: from a soft bounce to fireworks for legendary ones. 🎆💜"
+    "es": "¡Nuevo! Cada regalo tiene su propia animación, y en Descubrir ahora ves a todas las personas. 🎁✨",
+    "en": "New! Every gift has its own animation, and Discover now shows everyone. 🎁✨"
   }
 }
