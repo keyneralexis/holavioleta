@@ -1,9 +1,9 @@
 {
-  "versionCode": 12,
-  "version": "0.6.1",
+  "versionCode": 13,
+  "version": "0.6.2",
   "url": "https://github.com/keyneralexis/holavioleta/releases/latest/download/Violeta.apk",
   "notes": {
-    "es": "¡Nuevo! Perfiles VIP con una vista premium, y los nombres largos ya no se cortan de más. 💜",
-    "en": "New! VIP profiles with a premium look, and long names no longer get cut off too early. 💜"
+    "es": "Arreglo: Descubrir ya no se queda vacío y los perfiles VIP se ven siempre. 💜",
+    "en": "Fix: Discover no longer shows up empty and VIP profiles always show. 💜"
   }
 }
