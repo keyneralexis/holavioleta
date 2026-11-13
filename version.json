@@ -1,9 +1,9 @@
 {
-  "versionCode": 13,
-  "version": "0.6.2",
+  "versionCode": 14,
+  "version": "0.6.3",
   "url": "https://github.com/keyneralexis/holavioleta/releases/latest/download/Violeta.apk",
   "notes": {
-    "es": "Arreglo: Descubrir ya no se queda vacío y los perfiles VIP se ven siempre. 💜",
-    "en": "Fix: Discover no longer shows up empty and VIP profiles always show. 💜"
+    "es": "Nuevo: confirmación de lectura (visto) en el chat y filtro de edad más seguro. 💜",
+    "en": "New: read receipts in chat and a safer age filter. 💜"
   }
 }
