@@ -1,9 +1,9 @@
 {
-  "versionCode": 11,
-  "version": "0.6.0",
+  "versionCode": 12,
+  "version": "0.6.1",
   "url": "https://github.com/keyneralexis/holavioleta/releases/latest/download/Violeta.apk",
   "notes": {
-    "es": "¡Nuevo! 4 regalos exclusivos de amistad y amor con animaciones nuevas. Y si te regalan, ganas la mitad en créditos. 💜",
-    "en": "New! 4 exclusive friendship and love gifts with brand-new animations. And when someone gifts you, you get half in credits. 💜"
+    "es": "¡Nuevo! Perfiles VIP con una vista premium, y los nombres largos ya no se cortan de más. 💜",
+    "en": "New! VIP profiles with a premium look, and long names no longer get cut off too early. 💜"
   }
 }
