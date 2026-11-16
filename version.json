@@ -1,9 +1,9 @@
 {
-  "versionCode": 14,
-  "version": "0.6.3",
+  "versionCode": 15,
+  "version": "0.6.4",
   "url": "https://github.com/keyneralexis/holavioleta/releases/latest/download/Violeta.apk",
   "notes": {
-    "es": "Nuevo: confirmación de lectura (visto) en el chat y filtro de edad más seguro. 💜",
-    "en": "New: read receipts in chat and a safer age filter. 💜"
+    "es": "Nuevo: temas inmersivos con fondo animado, Super Likes en la Tienda y visto con hora. 💜",
+    "en": "New: immersive animated themes, Super Likes in the Store and read receipts with time. 💜"
   }
 }
