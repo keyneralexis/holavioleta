@@ -1,9 +1,9 @@
 {
-  "versionCode": 15,
-  "version": "0.6.4",
+  "versionCode": 16,
+  "version": "0.6.5",
   "url": "https://github.com/keyneralexis/holavioleta/releases/latest/download/Violeta.apk",
   "notes": {
-    "es": "Nuevo: temas inmersivos con fondo animado, Super Likes en la Tienda y visto con hora. 💜",
-    "en": "New: immersive animated themes, Super Likes in the Store and read receipts with time. 💜"
+    "es": "Nuevo: Rueda Violeta, Parchís multijugador y anuncios con recompensa en la Tienda. 💜",
+    "en": "New: Violeta Wheel, multiplayer Ludo and rewarded ads in the Store. 💜"
   }
 }
