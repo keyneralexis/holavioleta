@@ -1,9 +1,9 @@
 {
-  "versionCode": 16,
-  "version": "0.6.5",
+  "versionCode": 17,
+  "version": "0.6.6",
   "url": "https://github.com/keyneralexis/holavioleta/releases/latest/download/Violeta.apk",
   "notes": {
-    "es": "Nuevo: Rueda Violeta, Parchís multijugador y anuncios con recompensa en la Tienda. 💜",
-    "en": "New: Violeta Wheel, multiplayer Ludo and rewarded ads in the Store. 💜"
+    "es": "Arreglo: la Tienda ya no cierra la app. Incluye la Rueda, el Parchís y los anuncios con recompensa. 💜",
+    "en": "Fix: the Store no longer closes the app. Includes the Wheel, Ludo and rewarded ads. 💜"
   }
 }
