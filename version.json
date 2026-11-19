@@ -1,9 +1,9 @@
 {
-  "versionCode": 17,
-  "version": "0.6.6",
+  "versionCode": 18,
+  "version": "0.6.7",
   "url": "https://github.com/keyneralexis/holavioleta/releases/latest/download/Violeta.apk",
   "notes": {
-    "es": "Arreglo: la Tienda ya no cierra la app. Incluye la Rueda, el Parchís y los anuncios con recompensa. 💜",
-    "en": "Fix: the Store no longer closes the app. Includes the Wheel, Ludo and rewarded ads. 💜"
+    "es": "Arreglo importante: la app vuelve a abrir. Incluye la Rueda, el Parchís y los anuncios con recompensa. 💜",
+    "en": "Important fix: the app opens again. Includes the Wheel, Ludo and rewarded ads. 💜"
   }
 }
