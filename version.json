@@ -1,9 +1,9 @@
 {
-  "versionCode": 20,
-  "version": "0.6.9",
+  "versionCode": 21,
+  "version": "0.7.0",
   "url": "https://github.com/keyneralexis/holavioleta/releases/latest/download/Violeta.apk",
   "notes": {
-    "es": "Nuevos juegos: Raspa y Gana y Escaleras y Serpientes con retos. 💜",
-    "en": "New games: Scratch & Win and Snakes & Ladders with challenges. 💜"
+    "es": "Escaleras y Serpientes renovado: dado 3D que lanzas con el dedo y tablero nuevo. 💜",
+    "en": "Snakes & Ladders refreshed: a 3D die you throw with your finger and a new board. 💜"
   }
 }
