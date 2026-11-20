@@ -1,9 +1,9 @@
 {
-  "versionCode": 19,
-  "version": "0.6.8",
+  "versionCode": 20,
+  "version": "0.6.9",
   "url": "https://github.com/keyneralexis/holavioleta/releases/latest/download/Violeta.apk",
   "notes": {
-    "es": "Nueva versión de Violeta con la Rueda, el Parchís y los anuncios con recompensa. 💜",
-    "en": "New Violeta version with the Wheel, Ludo and rewarded ads. 💜"
+    "es": "Nuevos juegos: Raspa y Gana y Escaleras y Serpientes con retos. 💜",
+    "en": "New games: Scratch & Win and Snakes & Ladders with challenges. 💜"
   }
 }
