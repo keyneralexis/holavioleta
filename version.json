@@ -1,9 +1,9 @@
 {
-  "versionCode": 18,
-  "version": "0.6.7",
+  "versionCode": 19,
+  "version": "0.6.8",
   "url": "https://github.com/keyneralexis/holavioleta/releases/latest/download/Violeta.apk",
   "notes": {
-    "es": "Arreglo importante: la app vuelve a abrir. Incluye la Rueda, el Parchís y los anuncios con recompensa. 💜",
-    "en": "Important fix: the app opens again. Includes the Wheel, Ludo and rewarded ads. 💜"
+    "es": "Nueva versión de Violeta con la Rueda, el Parchís y los anuncios con recompensa. 💜",
+    "en": "New Violeta version with the Wheel, Ludo and rewarded ads. 💜"
   }
 }
