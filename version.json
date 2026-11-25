@@ -1,9 +1,9 @@
 {
-  "versionCode": 22,
-  "version": "0.7.1",
+  "versionCode": 23,
+  "version": "0.7.2",
   "url": "https://github.com/keyneralexis/holavioleta/releases/latest/download/Violeta.apk",
   "notes": {
-    "es": "Dados VIP de colección y 3 mapas nuevos en Escaleras y Serpientes. 💜",
-    "en": "Collector VIP dice and 3 new maps in Snakes & Ladders. 💜"
+    "es": "Reta a tus amigos desde el chat, Trivia en vivo, Misiones del día y bloquear a alguien. 💜",
+    "en": "Challenge friends from the chat, live Trivia, daily Missions and blocking. 💜"
   }
 }
